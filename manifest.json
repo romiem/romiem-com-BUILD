@@ -3,23 +3,23 @@
   "name": "romiem",
   "icons": [
     {
-      "src": "images/favicon/logo64.png",
+      "src": "images/icons/logo-64.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "images/favicon/logo192.png",
+      "src": "images/icons/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/favicon/logo512.png",
+      "src": "images/icons/logo-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#222426",
   "background_color": "#ffffff"
 }
