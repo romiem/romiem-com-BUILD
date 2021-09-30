@@ -1,0 +1,2 @@
+(this["webpackJsonpromiem-com"]=this["webpackJsonpromiem-com"]||[]).push([[228],{386:function(e,a,n){"use strict";function t(e){!function(e){function a(a,n){e.languages[a]&&e.languages.insertBefore(a,"comment",{"doc-comment":n})}var n=e.languages.markup.tag,t={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:n}},s={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:n}};a("csharp",t),a("fsharp",t),a("vbnet",s)}(e)}e.exports=t,t.displayName="xmlDoc",t.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_xmlDoc.9cb2f98a.chunk.js.map

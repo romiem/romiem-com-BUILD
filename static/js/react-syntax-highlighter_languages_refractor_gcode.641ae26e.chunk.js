@@ -1,0 +1,2 @@
+(this["webpackJsonpromiem-com"]=this["webpackJsonpromiem-com"]||[]).push([[68],{242:function(e,t,o){"use strict";function n(e){e.languages.gcode={comment:/;.*|\B\(.*?\)\B/,string:{pattern:/"(?:""|[^"])*"/,greedy:!0},keyword:/\b[GM]\d+(?:\.\d+)?\b/,property:/\b[A-Z]/,checksum:{pattern:/\*\d+/,alias:"punctuation"},punctuation:/:/}}e.exports=n,n.displayName="gcode",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_gcode.641ae26e.chunk.js.map
